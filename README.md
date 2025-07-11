@@ -24,7 +24,7 @@ mgta415-unstructured-data/
 
 ## 📖 Homework Assignments
 
-### 📓 [Homework 1: Text Classification with Bag-of-Words](./homework 1.ipynb)
+### 📓 [Homework 1: Text Classification with Bag-of-Words](./homework%201.ipynb)
 **Dataset**: Financial Phrase Bank (FPB) - Sentiment Analysis
 
 **Key Concepts**:
@@ -38,7 +38,7 @@ mgta415-unstructured-data/
 
 **Results**: Achieved ~80% accuracy across different representations
 
-### 📓 [Homework 2: Word Embeddings and Language Models](./homework 2.ipynb)
+### 📓 [Homework 2: Word Embeddings and Language Models](./homework%202.ipynb)
 **Dataset**: Financial Phrase Bank (FPB) - Sentiment Analysis
 
 **Key Concepts**:
@@ -53,7 +53,7 @@ mgta415-unstructured-data/
 
 **Results**: Word2Vec achieved ~89% AUROC, GloVe achieved ~85% AUROC
 
-### 📓 [Homework 3: Phrase Mining and Advanced NLP](./homework 3.ipynb)
+### 📓 [Homework 3: Phrase Mining and Advanced NLP](./homework%203.ipynb)
 **Dataset**: Computer Science research papers
 
 **Key Concepts**:
@@ -78,7 +78,7 @@ mgta415-unstructured-data/
 - Simple logistic regression
 - Basic text preprocessing
 
-### 📓 [Advanced Implementation](./data challenge.ipynb)
+### 📓 [Advanced Implementation](./data%20challenge.ipynb)
 - **Enhanced Features**:
   - TF-IDF with n-grams (1-3 word combinations)
   - 40,000+ features
